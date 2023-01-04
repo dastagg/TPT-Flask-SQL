@@ -1,5 +1,5 @@
 # requirements-dev.txt
--r requirements
+-r requirements.txt
 
 pytest
 pytest-cov
