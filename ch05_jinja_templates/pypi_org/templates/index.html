@@ -9,11 +9,24 @@
 </head>
 
 <body>
+
+  <style>
+    .title {
+      font-weight: bold;
+    }
+  </style>
   <h1>Python Package Index</h1>
 
   <h2>Package</h2>
 
-  TODO: Show packages
+  {% for p in packages %}
+  <div>
+    <span class="title"> {{ p.name.upper() }}</span>
+    <span class="version"> {{ p.version }}</span>
+
+  </div>
+
+  {% endfor %}
 
 
 
