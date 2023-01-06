@@ -22,6 +22,7 @@ def index():
 def about():
     return flask.render_template("home/about.html")
 
+# the code below is using the response decorator, I'm not using it.
 # @app.route("/")
 # @response(template_file='home/index.html')
 # def index():
