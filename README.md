@@ -12,10 +12,10 @@ While I am familiar with Git and GitHub/GitLab/BitBucket and creating Issues, I 
 So, with this version, I will re-visit this tutorial but pretend I am two different persons.
 
 As I progress through the tutorial:
-  Create an issue
-  Create a branch
-  Complete that part of the tutorial
-  Push to GitHub
-  Create a PR
-  Merge (or not) the PR
-  Re-Sync the two local repositories
+  - Create an issue
+  - Create a branch
+  - Complete that part of the tutorial
+  - Push to GitHub
+  - Create a PR
+  - Merge (or not) the PR
+  - Re-Sync the two local repositories
